@@ -1,0 +1,14 @@
+[project]
+name = "ComfyUI-NodeAlign"
+description = "Lightweight alignment toolbar for ComfyUI graphs. Provides quick align, equal size, and distribution actions with optional keyboard shortcuts."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/1038lab/ComfyUI-NodeAlign"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "ailab"
+DisplayName = "ComfyUI-NodeAlign"
+Icon = ""
