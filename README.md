@@ -29,7 +29,7 @@ To install **ComfyUI-NodeAlign**, follow these steps:
 Example:
 
 ```bash
-git clone https://github.com/yourusername/ComfyUI-NodeAlign.git
+git clone https://github.com/1038lab/ComfyUI-NodeAlign.git
 ```
 
 ## Configuration
