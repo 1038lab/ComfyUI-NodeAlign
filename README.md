@@ -2,8 +2,9 @@
 
 **ComfyUI-NodeAlign** is a lightweight alignment toolbar for ComfyUI graphs. It provides quick alignment, equal size, and distribution actions, with optional keyboard shortcuts, designed for simplicity and ease of use.
 
-## Features
+![NodeAlign](https://github.com/user-attachments/assets/4326c991-ed21-446a-8801-5078298106c1)
 
+## Features
 * **Toolbar Customization**: Change the position, size, and visibility of the alignment toolbar.
 * **Node Alignment**: Align selected nodes horizontally or vertically.
 * **Equalize Node Dimensions**: Equalize the width and/or height of selected nodes.
